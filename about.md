@@ -10,6 +10,6 @@ title: About
 Catch some of my old and ongoing work here:
 
 * [Abby Krishnan for the Daily Texan](https://www.dailytexanonline.com/author/abby-krishnan)
-* [Austin Food Spreadsheet] (https://docs.google.com/spreadsheets/d/1ONjeXhjLvj3hn3u-3QIQgN_TwgP4zUbhVRtST-9900s/edit#gid=0)
+* [Austin Food Spreadsheet](https://docs.google.com/spreadsheets/d/1ONjeXhjLvj3hn3u-3QIQgN_TwgP4zUbhVRtST-9900s/edit#gid=0)
 
 Thanks for visiting!
