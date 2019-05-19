@@ -8,9 +8,9 @@ permalink:        pretty
 # Setup
 title:            Abby Krishnan
 tagline:          'Welcome!'
-description:      'I am a computer science student at UT who loves politics, food, and tech!'
-url:              https://abbykrish.github.io
-baseurl:          /
+description:      'Programming | Civic Engagement | Food'
+url:              'https://abbykrish.github.io'
+baseurl:          ''
 
 author:
   name:           'Abby Krishnan'
